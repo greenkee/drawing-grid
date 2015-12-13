@@ -1,5 +1,5 @@
-var rows = 20;
-var cols = 20;
+var rows = 16;
+var cols = 16;
 var borderSize = 1;
 $(document).ready(function(){
     redrawGrid(rows, cols);
