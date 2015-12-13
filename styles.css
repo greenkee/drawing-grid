@@ -10,17 +10,37 @@
 .GridRow{
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+    width:805px;
 }
 #frame{
-    width:1000px;
-    height:1000px;
+    width:800px;
+    height:800px;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+    float:left;
 }
 #resize{
     font-size: 22px;
-    margin:auto;
     border: 1px solid black;
     background-color: orange;
     display:inline;
+    float:left;
+    clear:both;
+}
+.textBox{
+    font-size: 22px;
+    float:left;
+    display:inline;
+    padding: 0px 2px 0px 10px;
+}
+.enterText{
+    font-size: 22px;
+    width:80px;
+    float:left;
+    display:inline;
+}
+#menuBar{
+    float:left;
+    clear:both;
+    margin-top: 10px;
 }
