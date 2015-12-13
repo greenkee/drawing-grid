@@ -47,7 +47,7 @@
 #colorPicker{
     float:left;
     clear:both;
-    display: inline;
+    height:66px;
     margin-top: 15px;
 }
 .ColorBox{
@@ -55,4 +55,8 @@
     height:60px;
     display: inline-block;
     margin: 0px 5px 0px 5px;
+}
+.ColorBox:hover{
+    border: 3px solid black;
+
 }
