@@ -21,4 +21,10 @@ $(document).ready(function(){
             $('.GridSquare').css('background-color', 'white');
         }
     });
+    $('#resize').click(function(){
+        var yes = confirm("Dimensions?");
+        if(yes){
+            console.log("123");
+        }
+    });
 });
