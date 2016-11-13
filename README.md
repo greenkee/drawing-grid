@@ -1,3 +1,2 @@
 # drawing-grid
-Trying to create first web app.
-Test Commit
+Simple grid drawing app: http://greenkee.github.io/drawing-grid/
